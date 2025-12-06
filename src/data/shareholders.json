@@ -1,0 +1,124 @@
+{
+  "asOf": "2025年8月7日",
+  "stockPrice": 3832,
+  "totalShares": 45000000,
+  "items": [
+    {
+      "code": "sh_01",
+      "name": "タケナカ信託銀行（信託口）",
+      "shares": 6075000,
+      "ratio": 13.5,
+      "value": 232.8,
+      "category": "信託",
+      "note": "議決権行使の帰属が不透明"
+    },
+    {
+      "code": "sh_02",
+      "name": "ワカサ・アセット・マネジメント",
+      "shares": 4545000,
+      "ratio": 10.1,
+      "value": 174.2,
+      "category": "機関投資家",
+      "note": "国内中堅運用機関、安定志向"
+    },
+    {
+      "code": "sh_03",
+      "name": "ジャパン・エクイティ・パートナーズ",
+      "shares": 3555000,
+      "ratio": 7.9,
+      "value": 136.2,
+      "category": "機関投資家",
+      "note": "バリュー投資家、企業価値改善提案"
+    },
+    {
+      "code": "sh_04",
+      "name": "オレンジ・パートナー",
+      "shares": 3060000,
+      "ratio": 6.8,
+      "value": 117.3,
+      "category": "アクティビスト",
+      "note": "ROEや資本効率に敏感"
+    },
+    {
+      "code": "sh_05",
+      "name": "菜の花公益財団（創業家）",
+      "shares": 2520000,
+      "ratio": 5.6,
+      "value": 96.6,
+      "category": "創業家",
+      "note": "創業家資産管理法人、経営独立性重視"
+    },
+    {
+      "code": "sh_06",
+      "name": "CCBJインベストメンツ",
+      "shares": 2520000,
+      "ratio": 5.6,
+      "value": 96.6,
+      "category": "外資系ファンド",
+      "note": "短期リターンやTOBプレミアムに反応"
+    },
+    {
+      "code": "sh_07",
+      "name": "安土銀行（地元銀行）",
+      "shares": 2070000,
+      "ratio": 4.6,
+      "value": 79.3,
+      "category": "金融機関",
+      "note": "長年の取引関係"
+    },
+    {
+      "code": "sh_08",
+      "name": "菜の花運輸 従業員持株会",
+      "shares": 1800000,
+      "ratio": 4.0,
+      "value": 69.0,
+      "category": "従業員",
+      "note": "社員による持株制度"
+    },
+    {
+      "code": "sh_09",
+      "name": "ネオバリュー投信",
+      "shares": 1755000,
+      "ratio": 3.9,
+      "value": 67.3,
+      "category": "機関投資家",
+      "note": "長期保有型、中立的"
+    },
+    {
+      "code": "sh_10",
+      "name": "地域共創ファンドしが",
+      "shares": 1530000,
+      "ratio": 3.4,
+      "value": 58.6,
+      "category": "地域ファンド",
+      "note": "地場経済支援目的、雇用・地域関係重視"
+    },
+    {
+      "code": "sh_11",
+      "name": "自社株",
+      "shares": 1305000,
+      "ratio": 2.9,
+      "value": 50.0,
+      "category": "自社",
+      "note": "財務戦略・資本効率目的、議決権無効"
+    },
+    {
+      "code": "sh_12",
+      "name": "ユニコーン運輸株式会社",
+      "shares": 945000,
+      "ratio": 2.1,
+      "value": 36.2,
+      "category": "事業会社",
+      "note": "業務提携関係"
+    },
+    {
+      "code": "sh_13",
+      "name": "個人株主（約5,000名）",
+      "shares": 7605000,
+      "ratio": 16.9,
+      "value": 291.4,
+      "category": "個人",
+      "note": ""
+    }
+  ]
+}
